@@ -1,2 +1,2 @@
 # jalal-projects
-these my personal projects
+My personal projects
